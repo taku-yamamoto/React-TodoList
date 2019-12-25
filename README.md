@@ -1,6 +1,3 @@
-#　これはQiita記事(React TodoList)を動かせるようにしたもの
-# https://qiita.com/rioc/items/8723c236e10d989e827d
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
